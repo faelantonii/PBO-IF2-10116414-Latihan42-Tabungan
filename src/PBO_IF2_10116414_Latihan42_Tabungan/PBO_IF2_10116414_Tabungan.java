@@ -8,7 +8,6 @@ package PBO_IF2_10116414_Latihan42_Tabungan;
 import java.util.Scanner;
 
 /**
- *
  * @author sweenutt
  * Nama       : Fael Antoni Wijaya 
  * Kelas      : PBO2/IF 2 
